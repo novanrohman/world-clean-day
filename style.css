@@ -21,7 +21,7 @@
 .bg-cover {
     background-size: cover;
     color: #000;
-    background-position: 0% 25%;
+    background-position: 50% 25%;
     position: relative;
     z-index: -2;
 }
